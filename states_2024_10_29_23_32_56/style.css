@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(109, 163, 209);
+}
+h1 {
+  text-align: center;
+  color: bisque;
+}
+
+canvas {
+  margin: auto;
+  display: block;
+}
+
